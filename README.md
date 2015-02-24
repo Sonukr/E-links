@@ -6,5 +6,4 @@ To use this app , Clone this repo
 --------------------------------
      goto js/script.js file and replace firebase url with your's.
 --------------------------------------
-To get firebase account follow instruction for
-    firebase [Here](https://www.firebase.com/signup/)
+To get firebase account follow instruction [Here](https://www.firebase.com/signup/)
